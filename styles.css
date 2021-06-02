@@ -1,0 +1,40 @@
+header {
+  color:darkslateblue ;
+  font-weight: bold;
+  font-family: "Open Sans"
+}
+
+h1 {
+  color: "black";
+  text-align: "center";
+  font-family: "Open Sans"
+}
+
+body {
+  font-family: "Open Sans";
+}
+
+#navbar {
+  background-color:#900C3F;
+  font-family: "Open Sans"
+}
+
+a {
+  color:lemonchiffon
+}
+
+container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+header {
+  font-size: 50px;
+  line-height: 1.6em;
+  padding-top: 30px;
+}
+
+table {
+  text-align: center;
+}
